@@ -1,7 +1,8 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/Taren-Ko/onenord/master/icon.png">
 </p>
-# OneNord
+
+<h1>OneNord</h1>
 
 OneNord is a VS Code theme that merges the color syntax of Nord with the workspace colors of One Dark.
 These themes can each be found at these links:
