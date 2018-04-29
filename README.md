@@ -10,4 +10,7 @@ These themes can each be found at these links:
 [OneDark-Pro](https://github.com/Binaryify/OneDark-Pro)
 
 <h2>Installation</h2>
+<h3>Mac OSX</h3>
 Download and extract the zip file into your .vscode/extensions folder, then restart VSCode and select OneNord as your theme.
+<h3>Windows</h3>
+Download and extract the zip file into Program Files\Microsoft VS Code\resources\app\extensions, then restart VSCode and select OneNord as your theme
